@@ -1,0 +1,82 @@
+[
+    {
+        "question" : "Which planet has the largest diameter in the Solar System?",
+        "choice1" : "Jupiter",
+        "choice2" : "Venus",
+        "choice3" : "Neptune",
+        "choice4" : "Mars",
+        "answer" : 1
+    },
+    {
+        "question" : "What phenomenon allows us to see the surface of the Moon more clearly?",
+        "choice1" : "Lunar Eclipse",
+        "choice2" : "Solar Eclipse",
+        "choice3" : "Lunar Orbit",
+        "choice4" : "Axial Tilt of the Moon",
+        "answer" : 1
+    },
+    {
+        "question" : "The \"Great Red Spot\" is a feature of which planet?",
+        "choice1" : "Mars",
+        "choice2" : "Jupiter",
+        "choice3" : "Saturn",
+        "choice4" : "Uranus",
+        "answer" : 2
+    },
+    {
+        "question" : "Which star is the closest neighbor to the Solar System?",
+        "choice1" : "Alpha Centauri A",
+        "choice2" : "Proxima Centauri",
+        "choice3" : "Sirius",
+        "choice4" : "Vega",
+        "answer" : 2
+    },
+    {
+        "question" : "Which galaxy is most similar to the Milky Way in terms of galaxy type?",
+        "choice1" : "Andromeda Galaxy",
+        "choice2" : "Distant Galaxy",
+        "choice3" : "Redshift Galaxy",
+        "choice4" : "Large Magellanic Cloud",
+        "answer" : 1
+    },
+    {
+        "question" : "What is the explosive event that occurs at the end of a star's life cycle called?",
+        "choice1" : "Stellar Explosion",
+        "choice2" : "Doomsday",
+        "choice3" : "Formation of Black Hole",
+        "choice4" : "Supernova",
+        "answer" : 4
+    },
+    {
+        "question" : "On which planet's surface can you find the \"Farthest man-made object from its surface\"?",
+        "choice1" : "Mars",
+        "choice2" : "Jupiter",
+        "choice3" : "Saturn",
+        "choice4" : "Uranus",
+        "answer" : 1
+    },
+    {
+        "question" : "How many dwarf planets are there in the Solar System?",
+        "choice1" : "1",
+        "choice2" : "3",
+        "choice3" : "5",
+        "choice4" : "7",
+        "answer" : 3
+    },
+    {
+        "question" : "What concept is the \"Hawking Radiation\" associated with?",
+        "choice1" : "Black Holes",
+        "choice2" : "Sunspots",
+        "choice3" : "Star Cluster",
+        "choice4" : "Comets",
+        "answer" : 1
+    },
+    {
+        "question" : "In which constellation can you find the star cluster known as \"Pleiades\" or \"Seven Sisters\"?",
+        "choice1" : "Ursa Major",
+        "choice2" : "Taurus",
+        "choice3" : "Orion",
+        "choice4" : "Cancer",
+        "answer" : 2
+    }
+]
